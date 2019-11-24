@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="elementos_dialog_seleccion">
+        <item>Opción un</item>
+        <item>Opción dous</item>
+        <item>Opción tres</item>
+        <item>Opción catro</item>
+    </string-array>
+
+    <string-array name="elementos_dialog_seleccion2">
+        <item>Coche</item>
+        <item>Moto</item>
+    </string-array>
+
+</resources>
